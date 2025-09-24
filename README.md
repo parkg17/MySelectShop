@@ -20,3 +20,15 @@ Git Bash로 EC2에 접속 한 모습
 
 
 EC2에서 서버를 돌리는 모습
+
+
+<img width="581" height="60" alt="image" src="https://github.com/user-attachments/assets/92ab1b2a-d616-4062-beba-d4d9794b5680" />
+
+
+nohup으로 EC2 백그라운드로 서버를 돌리는 모습
+
+
+<img width="577" height="780" alt="image" src="https://github.com/user-attachments/assets/331f2917-eb6e-4612-b80b-d8a6fcb8d821" />
+
+
+IP로 접속했을때도 DB 및 서버가 정상 작동함을 알 수 있다.
