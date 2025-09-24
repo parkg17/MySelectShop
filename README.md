@@ -14,3 +14,9 @@ AWS DB 추가 완료
 
 
 Git Bash로 EC2에 접속 한 모습
+
+
+<img width="700" height="175" alt="image" src="https://github.com/user-attachments/assets/9f15f72e-dcd4-4ede-a139-d05e330004e5" />
+
+
+EC2에서 서버를 돌리는 모습
